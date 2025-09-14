@@ -1,4 +1,4 @@
-# 🎆 Festive Crackers Booking (FBS)
+# 🎆 Festive Crackers Booking (FCB)
 
 Festive Crackers Booking (FBS) is a full-stack **e-commerce web application** built using **React JS and Firebase**.  
 It provides a smooth and user-friendly platform for customers to browse, select, and purchase festive crackers online.  
